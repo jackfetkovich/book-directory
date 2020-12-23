@@ -1,0 +1,29 @@
+[
+	{
+		"id": 0,
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"author": "J.K. Rowling",
+		"year": 1997
+	},
+	{ "id": 1, "title": "IT", "author": "Stephen King", "year": 1986 },
+	{ "id": 2, "title": "The Raven", "author": "Edgar Allan Poe", "year": 1845 },
+	{ "id": 3, "title": "1984", "author": "George Orwell", "year": 1949 },
+	{
+		"id": 4,
+		"title": "Great Expectations",
+		"author": "Charles Dickens",
+		"year": 1860
+	},
+	{
+		"id": 5,
+		"title": "A Tale of Two Cities",
+		"author": "Charles Dickens",
+		"year": 1859
+	},
+	{
+		"id": 6,
+		"title": "The Things They Carried",
+		"author": "Tim O'Brien",
+		"year": 1990
+	}
+]

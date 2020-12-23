@@ -1,0 +1,14 @@
+{
+  "name": "bookdirectory",
+  "version": "1.0.0",
+  "description": "Basic REST API that retrieves information from a list of books",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Jack Fetkovich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
